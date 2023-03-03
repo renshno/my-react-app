@@ -1,0 +1,33 @@
+/*.BookingForm label {
+    display: flex;
+    align-items: center;
+  }
+  .BookingForm label span {
+    width: 20%;
+    text-align: right;
+  }
+  BookingForm select, BookingForm input{
+  width: 70%;
+  margin: 10px auto;
+  padding: 5px;
+  font-size: 15px;
+  font-family: 'Karla', sans-serif;
+  outline: none;
+  border: 1px solid #aaa;
+  border-radius: 4x;
+  font-weight: 300;
+  }
+  
+  form input[type = text], form input[type = number], form input::placeholder, select{
+  color: #9a9a9a;
+  }
+  
+  form button[type = submit]{
+    display: block;
+  color: #fff;
+  background: #f2745f;
+  padding: 12px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 0 auto;
+  }*/
